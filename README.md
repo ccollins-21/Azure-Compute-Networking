@@ -1,4 +1,4 @@
-<h1>Azure Compute and Networking</h1>
+<h1>Azure Virtual Machines and Networking</h1>
 
  ### [YouTube Demonstration](https://youtu.be)
 
