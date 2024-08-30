@@ -7,7 +7,7 @@ Project consists of creating virtual machines and a network where I monitor neto
 <br />
 
 
-<h2>Enviroments and Utilities Used</h2>
+<h2>Environments and Utilities Used</h2>
 
 - <b>Microsoft Azure</b>
 - <b>Virtual Machines</b>
