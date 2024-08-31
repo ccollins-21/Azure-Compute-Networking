@@ -21,7 +21,7 @@ Project consists of creating virtual machines and a network where I monitor neto
 - <b>Windows 10</b>
 - <b>Ubuntu 24.04</b>
 
-<h2>Project Walk-Through:</h2>
+<h2>Project Walk-through:</h2>
 
 <p align="center">
 Navigate to Microsoft Azure and create a resource group: <br/>
