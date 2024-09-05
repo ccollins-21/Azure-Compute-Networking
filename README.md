@@ -74,7 +74,7 @@ Once Wireshark has downloaded and opened I will select "Ethernet" to observe net
 <img src="https://i.imgur.com/qCIJYSG.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-To filter for ICMP traffic I type "ICMP" at the top of wireshark. To make traffic I will get the private IP address of VM2 and ping it from PowerShell:  <br/>
+To filter for ICMP (Internet Control Message Protocol) traffic I type "ICMP" at the top of wireshark. To make traffic I will get the private IP address of VM2 and ping it from PowerShell:  <br/>
 <img src="https://i.imgur.com/gFeHSRf.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
@@ -101,19 +101,19 @@ Now ICMP echo requests are back to getting responses:  <br/>
 <img src="https://i.imgur.com/FPXmXdY.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Now I will filter to only show SSH traffic by typing SSH into the bar at the top and I will SSH into VM2 using PowerShell:  <br/>
+Now I will filter to only show SSH (Sercure Shell) traffic by typing SSH into the bar at the top and I will SSH into VM2 using PowerShell:  <br/>
 <img src="https://i.imgur.com/blrFX07.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-I can type commands like pwd and observe the traffic:  <br/>
+I can type commands like pwd (print working directory) and observe the traffic:  <br/>
 <img src="https://i.imgur.com/Corgjvn.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-After filtering for DHCP traffic, I attemped to get a new IP address by using the ipconfig /renew command:  <br/>
+After filtering for DHCP (Dynamic Host Configuration Protocol) traffic, I attemped to get a new IP address by using the ipconfig /renew command:  <br/>
 <img src="https://i.imgur.com/Zq7X1Zv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Filtering for DNS traffic, I can use nslookup to find IP addresses for domain names like "www.google.com" and "www.amazon.com":  <br/>
+Filtering for DNS (Domain Name System) traffic, I can use nslookup to find IP addresses for domain names like "www.google.com" and "www.amazon.com":  <br/>
 <img src="https://i.imgur.com/3cGR7xZ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
