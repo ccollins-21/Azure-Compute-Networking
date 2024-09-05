@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
 
 <h2>Description</h2>
-Project consists of creating virtual machines and a network where I monitor netowrk traffic with software called Wireshark. This is all done within Microsoft Azure. 
+Project consists of creating virtual machines and a network where I monitor network traffic with software called Wireshark. This is all done within Microsoft Azure. 
 <br />
 
 
