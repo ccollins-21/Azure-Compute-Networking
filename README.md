@@ -101,7 +101,7 @@ Now ICMP echo requests are back to getting responses:  <br/>
 <img src="https://i.imgur.com/FPXmXdY.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Now I will filter to only show SSH (Sercure Shell) traffic by typing SSH into the bar at the top and I will SSH into VM2 using PowerShell:  <br/>
+Now I will filter to only show SSH (Secure Shell) traffic by typing SSH into the bar at the top and I will SSH into VM2 using PowerShell:  <br/>
 <img src="https://i.imgur.com/blrFX07.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
