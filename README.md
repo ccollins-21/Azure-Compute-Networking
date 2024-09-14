@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.imgur.com/VvEfgCC.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
+<br />
+
 <h1>Azure Virtual Machines and Networking</h1>
 
  ### [YouTube Demonstration](https://www.youtube.com/watch?v=lrr9-Wq4bP8)
