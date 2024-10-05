@@ -1,4 +1,4 @@
-<p align="center">
+.<p align="center">
 <img src="https://i.imgur.com/VvEfgCC.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
@@ -58,7 +58,7 @@ Second VM setup:  <br/>
 <img src="https://i.imgur.com/keOWo28.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-In the "Networking" tab I want to make sure this VM will be on the same virtual network as the first one I made. So, I'll select the one already made for "VM1" instead of creating a new virtual network:  <br/>
+In the "Networking" tab I want to ensure this VM will be on the same virtual network as the first one I made. So, I'll select the one already made for "VM1" instead of creating a new virtual network:  <br/>
 <img src="https://i.imgur.com/QXLXthz.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
@@ -89,7 +89,7 @@ Now we can make some firewall configurations to deny any ICMP traffic. To do thi
 <img src="https://i.imgur.com/HGNy9PE.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-Next I will go to VM2's network security group and create a new inbound security rule denying all ICMP traffic making sure to put its priorty highest, so it will take precedence before all other rules:  <br/>
+Next, I will go to VM2's network security group and create a new inbound security rule denying all ICMP traffic making sure to put its priorty highest, so it will take precedence before all other rules:  <br/>
 <img src="https://i.imgur.com/H2zVFyt.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
@@ -113,7 +113,7 @@ I can type commands like pwd (print working directory) and observe the traffic: 
 <img src="https://i.imgur.com/Corgjvn.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-After filtering for DHCP (Dynamic Host Configuration Protocol) traffic, I attemped to get a new IP address by using the ipconfig /renew command:  <br/>
+After filtering for DHCP (Dynamic Host Configuration Protocol) traffic, I attempted to get a new IP address by using the ipconfig /renew command:  <br/>
 <img src="https://i.imgur.com/Zq7X1Zv.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
